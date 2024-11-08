@@ -16,8 +16,9 @@ Interactive Play: Option to play interactively or test against random moves.
 Copy code
 
 
-''' git clone https://github.com/emilykkimani/Rock-Paper-Scissors-with-a-bot.git
-cd Rock-Paper-Scissors-with-a-bot '''
+```
+git clone https://github.com/emilykkimani/Rock-Paper-Scissors-with-a-bot.git
+cd Rock-Paper-Scissors-with-a-bot 
 
 Install dependencies:
 
